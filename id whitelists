@@ -6,6 +6,6 @@ return {
     verifiedUserIds = {
     [4298015048] = true, --FeastOFall
     [6204905628] = true, --Fun23BlankPink
-    [7237076970] = true, --shazain(shazam12345612)
+    [7237076970] = true, --shazam12345612
     }
 }
